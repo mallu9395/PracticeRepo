@@ -1,1 +1,1 @@
-# PracticeRepo
+# DailyPracticeRepo
